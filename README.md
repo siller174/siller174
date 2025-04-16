@@ -1,4 +1,4 @@
-# Sergey Makarov 👋
+# Sergei Makarov 👋
 
 I'm a Senior Backend Engineer based in Munich, Germany, with a strong focus on building scalable backend systems and cloud-native solutions. I'm passionate about creating reliable, distributed systems and exploring new challenges in backend engineering.
 
